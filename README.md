@@ -97,17 +97,3 @@ job_desc_path = 'job_description.txt'  # your job description file
 - `tailored_resume.docx` – Output from `ai_resume_builder.py`
 
 ---
-
-## 👨‍💻 Author
-
-**Your Name** – [GitHub Profile](https://github.com/yourusername)
-
-> 💬 Contributions, suggestions, and forks are welcome!
-
----
-
-## 📜 Disclaimer
-
-This project is intended for educational and job preparation use. It does not guarantee job offers or interview calls but helps make resumes more ATS-friendly and role-specific.
-
----
